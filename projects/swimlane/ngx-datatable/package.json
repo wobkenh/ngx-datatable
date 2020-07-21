@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/swimlane/ngx-datatable/issues"
   },
-  "homepage": "https://github.com/swimlane/ngx-datatable#readme"
+  "homepage": "https://github.com/swimlane/ngx-datatable#readme",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
 }
